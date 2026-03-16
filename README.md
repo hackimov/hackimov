@@ -13,7 +13,7 @@
 **PHP · Laravel · Golang · Flutter/Dart** — backend-first engineer with a systems mindset.  
 I build things that scale, lead teams that ship, and care deeply about clean architecture.
 
-Currently bootstrapping **[yarx.ru](https://yarx.ru)** — my own startup out of Yaroslavl.
+Currently bootstrapping **[yarx.ru](https://yarx.ru)** — my own startup.
 
 ---
 
@@ -114,7 +114,6 @@ drwxr-xr-x  fintech-edi/      ← electronic document interchange system
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-@xxlid-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xxlid)
-[![Phone](https://img.shields.io/badge/Phone-+7_(901)_048--7384-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+79010487384)
 
 </div>
 
