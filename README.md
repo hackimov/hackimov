@@ -1,15 +1,17 @@
 <div align="center">
 
   <!-- Typing animation -->
-  [<image-card alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Monofett&size=26&duration=1800&pause=700&color=00FF41&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Alexander+Khakimov;Backend+Engineer+%F0%9F%92%BB;PHP+%C2%B7+Laravel+%C2%B7+Golang+%C2%B7+Flutter;Building+my+startup+yarx.ru+%F0%9F%9A%80;Open+to+remote+roles+%F0%9F%93%A9" ></image-card>](https://git.io/typing-svg)
-
-  <img src="https://avatars.githubusercontent.com/hackimov" width="160" style="border-radius: 50%; border: 5px solid #00FF41; margin: 20px;" alt="Alexander Khakimov"/>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Monofett&size=26&duration=1800&pause=700&color=00FF41&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Alexander+Khakimov;Backend+Engineer+%F0%9F%92%BB;PHP+%C2%B7+Laravel+%C2%B7+Golang+%C2%B7+Flutter;Building+my+startup+yarx.ru+%F0%9F%9A%80;Open+to+remote+roles+%F0%9F%93%A9)](https://git.io/typing-svg)
 
 </div>
 
+<div align="center">
+<pre>
 ╔═══════════════════════════════════════════════════════════════╗
 ║  alexander khakimov  //  backend engineer  //  yaroslavl, ru  ║
 ╚═══════════════════════════════════════════════════════════════╝
+</pre>
+</div>
 
 # `$ whoami`
 
@@ -43,19 +45,19 @@ Currently bootstrapping **[yarx.ru](https://yarx.ru)** — my own startup.
 
 <div align="center">
 
-<image-card alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" ></image-card>
-<image-card alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" ></image-card>
-<image-card alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" ></image-card>
-<image-card alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" ></image-card>
-<image-card alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" ></image-card>
-<image-card alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" ></image-card>
-<image-card alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" ></image-card>
-<image-card alt="Kafka" src="https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white" ></image-card>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 </div>
 
 <details>
-<summary>Полный стек</summary>
+<summary>Full tech stack</summary>
 
     languages:
       primary:   [ PHP, Golang ]
@@ -91,30 +93,30 @@ Currently bootstrapping **[yarx.ru](https://yarx.ru)** — my own startup.
 
 ## `$ ls -la projects/`
 
-    drwxr-xr-x  yarx.ru/          ← startup  [WIP — Yaroslavl] 🌐
+    drwxr-xr-x  yarx.ru/          ← my startup [WIP — Yaroslavl] 🌐
     drwxr-xr-x  ecom-platform/    ← retail backend at scale
     drwxr-xr-x  b2b-mobile-api/   ← internal ops app backend
     drwxr-xr-x  fintech-edi/      ← electronic document interchange system
 
-> **[yarx.ru](https://yarx.ru)** — мой текущий главный проект.
+> **[yarx.ru](https://yarx.ru)** — my current main project.
 
 ---
 
 ## `$ cat soft_skills.txt`
 
-- ✅ Объясняю сложные вещи простыми словами  
-- ✅ Делегирую с учётом и технических, и soft-навыков  
-- ✅ Даю честную и конструктивную обратную связь  
-- ✅ Помогаю команде расти  
-- ✅ Сохраняю спокойную и дружескую атмосферу даже под дедлайнами  
-- ✅ Всегда сдаю в срок и отвечаю за результат
+- ✅ I explain complex things in simple words  
+- ✅ I delegate taking into account both technical and soft skills  
+- ✅ I give honest and constructive feedback  
+- ✅ I help the team grow  
+- ✅ I maintain a calm and friendly atmosphere even under deadlines  
+- ✅ I always deliver on time and take responsibility for the result
 
 ---
 
 ## `$ ping me`
 
-[<image-card alt="Telegram" src="https://img.shields.io/badge/Telegram-@xxlid-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" ></image-card>](https://t.me/xxlid)
-[<image-card alt="Profile Views" src="https://komarev.com/ghpvc/?username=hackimov&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS" ></image-card>](https://github.com/hackimov/hackimov)
+[![Telegram](https://img.shields.io/badge/Telegram-@xxlid-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xxlid)
+[![Profile Views](https://komarev.com/ghpvc/?username=hackimov&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/hackimov/hackimov)
 
 **currently learning:** Golang // **building:** yarx.ru // **open to:** remote roles
 
@@ -123,5 +125,5 @@ Currently bootstrapping **[yarx.ru](https://yarx.ru)** — my own startup.
 ---
 
 <div align="center">
-  <i>Спасибо, что заглянул! 👾</i>
+  <i>Thanks for stopping by! 👾</i>
 </div>
