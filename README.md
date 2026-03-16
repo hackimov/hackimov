@@ -85,7 +85,7 @@ Currently bootstrapping **[yarx.ru](https://yarx.ru)** — my own startup.
 
 ## `$ ls -la projects/`
 
-    drwxr-xr-x  yarx.ru/          ← my startup [WIP — Yaroslavl] 🌐
+    drwxr-xr-x  yarx.ru/          ← my startup
     drwxr-xr-x  ecom-platform/    ← retail backend at scale
     drwxr-xr-x  b2b-mobile-api/   ← internal ops app backend
     drwxr-xr-x  fintech-edi/      ← electronic document interchange system
