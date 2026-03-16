@@ -5,14 +5,6 @@
 
 </div>
 
-<div align="center">
-<pre>
-╔═══════════════════════════════════════════════════════════════╗
-║  alexander khakimov  //  backend engineer  //  yaroslavl, ru  ║
-╚═══════════════════════════════════════════════════════════════╝
-</pre>
-</div>
-
 # `$ whoami`
 
 **PHP · Laravel · Golang · Flutter/Dart** — backend-first engineer with a systems mindset.  
